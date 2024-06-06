@@ -14,9 +14,10 @@ To Run the code:<br/>
 <br/>
 If you encounter any errors running this code make sure the following are set up:<br/> 
 <br/>
-1. You're IDE is running the most current version of python (Python 3)<br/>
+1.You're IDE is running the most current version of python (Python 3)<br/>
 <br/>
-Open the terminal and run the following commmands<br/>
+Or try this...
+</br>Open the terminal and run the following commmands<br/>
 <br/>
 2. You have cv2 imported and installed:<br/>
       pip install opencv-python<br/>
