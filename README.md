@@ -12,13 +12,14 @@ To Run the code:<br/>
   Simply run the .py file and allow access to your computers camera.<br/>
   To exit the program click 'x' on your keyboard<br/>
 <br/>
-If you encounter any errors running this code make sure the following are set up:<br/>
-You're IDE is running the most current version of python (Python 3)<br/>
+If you encounter any errors running this code make sure the following are set up:<br/> 
+<br/>
+1. You're IDE is running the most current version of python (Python 3)<br/>
 <br/>
 Open the terminal and run the following commmands<br/>
-  1. You have cv2 imported and installed:<br/>
+  2. You have cv2 imported and installed:<br/>
       pip install opencv-python<br/>
-  2. You have numpy installed:<br/>
+  3. You have numpy installed:<br/>
      pip install numpy<br/>
 <br/>
 If all else fails read the terminal and debug for the code to work.
