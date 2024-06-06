@@ -1,12 +1,12 @@
 # VideoEdgeDetection
 
-Using the canny function in python, this piece of code detects edges from your video screen and displays it.
+Using the canny function in python, this piece of code detects edges from your video screen and displays it.<br/>
 <br/>
-To access the program
+To access the program<br/>
 <br/>
-1.Downlaod the repository onto your computer and uplaod it to your IDE of choice (preferably pycharm or vscode)
+1.Downlaod the repository onto your computer and uplaod it to your IDE of choice (preferably pycharm or vscode)<br/>
 <br/>
-2. Or copy the .py file and paste it into your IDE of choice 
+2. Or copy the .py file and paste it into your IDE of choice <br/>
 <br/>
 To Run the code:<br/>
   Simply run the .py file and allow access to your computers camera.<br/>
