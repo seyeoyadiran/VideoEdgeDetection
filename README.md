@@ -1,1 +1,17 @@
 # VideoEdgeDetection
+
+Using the canny function in python, this piece of code detects edges from your video screen and displays it.
+
+To Run the program simply run the .py file and allow access to your computers camera.
+To exit the program click 'x' on your keyboard
+
+If you encounter any errors running this code make sure the following are set up:
+You're IDE is running the most current version of python (Python 3)
+Open the terminal and run the following commmands
+  1. You have Cv2 imported and installed:
+      pip install opencv-python
+  2. You have numpy installed:
+     pip install numpy
+
+If all else fails read the terminal and debug for the code to work.
+
